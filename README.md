@@ -1,6 +1,7 @@
-# 💫 About Me:
-👋 Hello! I'm Anupam Singh!<br><br>🌟 I'm a computer science student and the Cloud Executive for the Google Developer Student Clubs (GDSC) at Galgotias College Of Engineering And Technology..<br><br>🚀 I'm currently working on a project related to FEDERATED LEARNING and ENCRYPTED DOMAIN..<br><br>💡 I'm fascinated by the ever-evolving landscape of technology. My key interests include:<br> ➤ Artificial Intelligence <br> ➤ Cloud Computing<br> ➤ Blockchain<br> ➤ Data Science<br><br>📚 Fun fact: As a GDSC Cloud Executive, I've organized numerous tech events and workshops that foster a collaborative and innovative environment.   <br><br>Let's connect and collaborate! 😊
+# 👋 Hello! I'm Anupam Singh!
+![Profile Views](https://komarev.com/ghpvc/?username=ANUPAM-SINGH10&color=blue)
 
+🌟 I'm a computer science student and the Cloud Executive for the Google Developer Student Clubs (GDSC) at Galgotias College Of Engineering And Technology..<br><br>🚀 I'm currently working on a project related to FEDERATED LEARNING and ENCRYPTED DOMAIN..<br><br>💡 I'm fascinated by the ever-evolving landscape of technology. My key interests include:<br> ➤ Artificial Intelligence <br> ➤ Cloud Computing<br> ➤ Blockchain<br> ➤ Data Science<br><br>📚 Fun fact: As a GDSC Cloud Executive, I've organized numerous tech events and workshops that foster a collaborative and innovative environment.   <br><br>Let's connect and collaborate! 😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anupam_singh08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-singh-247597250) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@singh.anupam1010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnupamSingh1010) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Anupam_Singh10/)
@@ -15,6 +16,4 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
