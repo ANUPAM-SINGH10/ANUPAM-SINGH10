@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Anupam Singh!
-![Profile Views](https://komarev.com/ghpvc/?username=ANUPAM-SINGH10&color=blue)
+[![](https://visitcount.itsvg.in/api?id=ANUPAM-SINGH10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🌟 I'm a computer science student and the Cloud Executive for the Google Developer Student Clubs (GDSC) at Galgotias College Of Engineering And Technology..<br><br>🚀 I'm currently working on a project related to FEDERATED LEARNING and ENCRYPTED DOMAIN..<br><br>💡 I'm fascinated by the ever-evolving landscape of technology. My key interests include:<br> ➤ Artificial Intelligence <br> ➤ Cloud Computing<br> ➤ Blockchain<br> ➤ Data Science<br><br>📚 Fun fact: As a GDSC Cloud Executive, I've organized numerous tech events and workshops that foster a collaborative and innovative environment.   <br><br>Let's connect and collaborate! 😊
 
@@ -14,6 +14,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ANUPAM-SINGH10&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANUPAM-SINGH10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ANUPAM-SINGH10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ANUPAM-SINGH10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
