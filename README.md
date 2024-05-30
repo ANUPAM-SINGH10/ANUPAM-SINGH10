@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Anupam Singh!
+![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 [![](https://visitcount.itsvg.in/api?id=ANUPAM-SINGH10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🌟 I'm a computer science student and the Cloud Executive for the Google Developer Student Clubs (GDSC) at Galgotias College Of Engineering And Technology..<br><br>🚀 I'm currently working on a project related to FEDERATED LEARNING and ENCRYPTED DOMAIN..<br><br>💡 I'm fascinated by the ever-evolving landscape of technology. My key interests include:<br> ➤ Artificial Intelligence <br> ➤ Cloud Computing<br> ➤ Blockchain<br> ➤ Data Science<br><br>📚 Fun fact: As a GDSC Cloud Executive, I've organized numerous tech events and workshops that foster a collaborative and innovative environment.   <br><br>Let's connect and collaborate! 😊
